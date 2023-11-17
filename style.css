@@ -1,0 +1,30 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px;
+    background-color: lightslategray;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+p {
+    font-size: large;
+}
+
+#average-price {
+    color: #000000;
+    font-weight: bolder;
+}
+
+th {
+    font-size: larger;
+    padding: 10px;
+}
+
+tr {
+    text-align: center;
+    line-height: 1.5em;
+}
